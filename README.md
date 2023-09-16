@@ -9,7 +9,7 @@ https://www.github.com/naoya0117/plasma-i3-kwin_sessions.git を参照してく�
 sudo pacman -S i3 xcompmgr j4-makeconfig rofi i3blocks
 ```
 ```
-git clone https://www.github.com/naoya0117/plasma-i3_settings.git ~/.config/i3
+git clone https://www.github.com/naoya0117/plasma-i3_config.git ~/.config/i3
 ```
 mod(win) + shift + r で設定ファイルが読み込まれるはずです。
 - 設定を編集する際は、configを編集するのではなく、config.baseを更新して、```j4-make-config```を行ってください。mod + shirt + R によってi3 configファイルを更新します。この設定ファイルでは、j4-make-configのgreenish themeを使用しています。
