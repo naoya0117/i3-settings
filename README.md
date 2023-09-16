@@ -14,5 +14,5 @@ git clone https://www.github.com/naoya0117/plasma-i3_config.git ~/.config/i3
 mod(win) + shift + r で設定ファイルが読み込まれるはずです。
 - 設定を編集する際は、configを編集するのではなく、config.baseを更新して、```j4-make-config```を行ってください。mod + shirt + R によってi3 configファイルを更新します。この設定ファイルでは、j4-make-configのgreenish themeを使用しています。
 - このi3 configファイルでは、dmenu_runの変わりにrofiを使用しています。
-  rofiの設定ファイルについては、https://www.github.com/naoya0117/dmenu-rofi-settings.git を参照してください。
+  rofiの設定ファイルについては、https://www.github.com/naoya0117/dmenu-rofi_config.git を参照してください。
 - このi3 configファイルでは、i3 statusの代わりにi3blocksを使用しています。https://github.com/vivien/i3blocks-contrib を参考にi3 blocksを設定するか、i3statusをインストールし、 ~/.config/i3/config.base のbarブロック中のi3blocksをi3statusに書き換えてください。
