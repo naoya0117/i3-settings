@@ -210,6 +210,7 @@ no_focus [class="plasmashell" window_type="notification"]
 for_window [window_type="notification"] floating enable
 for_window [class="kscreen_osd_service"] floating enable
 for_window [class="Qemu-system-x86_64"] floating enable
+or_window [class="spectacle"] floating enable
 
 
 
