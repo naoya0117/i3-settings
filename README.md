@@ -16,7 +16,7 @@ mod(win) + shift + r で設定ファイルが読み込まれるはずです。
 - このi3 configファイルでは、dmenu_runの変わりにrofiを使用しています。
   rofiの設定ファイルについては、[dmenu-rofi_config](https://www.github.com/naoya0117/dmenu-rofi_config.git) を参照してください。
 - このi3 configファイルでは、i3 statusの代わりにi3blocksを使用しています。[i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) を参考にi3 blocksを設定するか、i3statusをインストールし、 ~/.config/i3/config.base のbarブロック中のi3blocksをi3statusに書き換えてください"
-- ## Links
+## Contact
   
 - Repository: [https://github.com/naoya0117/qemu-scripts](https://github.com/naoya0117/qemu-scripts)
 - Github: [https://github.com/naoya0117](https://github.com/naoya0117)
