@@ -3,7 +3,7 @@
 - デスクトップマネージャにplasma-i3 sessionを追加する方法については、
 [plasma-i3-kwin_session](https://www.github.com/naoya0117/plasma-i3-kwin_sessions.git) を参照してください。
 
-## 使い方
+## Usage
 - 必要なパッケージをインストールする
 ```
 sudo pacman -S i3 xcompmgr j4-makeconfig rofi i3blocks
